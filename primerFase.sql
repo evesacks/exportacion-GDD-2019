@@ -141,7 +141,7 @@ END;
 $_$
 -------------> Valida la modalidad
 
-CREATE FUNCTION útil.existe_modalidad (text) RETURNS boolean
+CREATE FUNCTION util.existe_modalidad (text) RETURNS boolean
     LANGUAGE plpgsql
     AS $_$
 
